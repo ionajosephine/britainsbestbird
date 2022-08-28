@@ -1,1 +1,48 @@
-/* Copy and paste your CSS from CodePen into here */
+html {
+  font-size: 10px;
+}
+
+body {
+  /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #12305c;
+  margin: 0;
+  background-color: #f5dfef;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+  color: #53bcdb
+}
+
+@media (max-width: 100%) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
+
+h2 {
+  font-size: 3.25rem;
+  color: #269e8c;
+}
+
+h3 {
+  font-size: 2.25rem;
+  color: #269e8c;
+}
+
+a {
+  color: #477ca7;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
