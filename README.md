@@ -4,7 +4,7 @@ A basic HTML and CSS tribute page to Britain's best bird: the seagull. You can v
 
 ## Why?
 
-One of the stages of the application process for the [School of Code](https://www.schoolofcode.co.uk/) Javascript bootcamp was to build a basic HTML and CSS website and host it on Github. They must have liked it because I was accepted! ✅🤩
+One of the stages of the application process for the [School of Code](https://www.schoolofcode.co.uk/) Javascript bootcamp was to build a basic HTML and CSS tribute page and host it on Github. They must have liked it because I was accepted! ✅🤩
 
 ## No, but why Seagulls?!
 
